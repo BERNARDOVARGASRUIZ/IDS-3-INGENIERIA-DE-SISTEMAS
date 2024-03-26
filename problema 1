@@ -1,0 +1,29 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    int num;
+    int suma = 0;
+    int multiplicacion = 1;
+    double promedio;
+
+    cout << "Por favor, ingrese 5 números enteros positivos:" << endl;
+
+    for(int i = 0; i < 5; i++) {
+        cin >> num;
+        while(num < 0) {
+            cout << "El número ingresado no es positivo. Por favor, ingrese un número entero positivo:" << endl;
+            cin >> num;
+        }
+        suma += num;
+        multiplicacion *= num;
+    }
+
+    promedio = static_cast<double>(suma) / 5;
+
+    cout << "La suma de los números es: " << suma << endl;
+    cout << "La multiplicación de los números es: " << multiplicacion << endl;
+    cout << "El promedio de los números es: " << promedio << endl;
+
+    return 0;
+}
