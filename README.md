@@ -6,9 +6,9 @@
 Este repositorio contiene los ejercicios resueltos asignados por el docente.
 
 ## Integrantes del Grupo 3
-- Jefferson
-- Adrian
-- Bernardo
+- *Jefferson Jair Paz Irusta*
+- *Adrian Chamani Arispe*
+- *Bernardo Vargas Ruiz*
 
 ## Estructura del Repositorio
 El repositorio está organizado de la siguiente manera:
