@@ -3,7 +3,7 @@
 *Este repositorio contiene los ejercicios resueltos asignados por el docente.*
 
 ## Descripción
-Este repositorio contiene los ejercicios resueltos asignados por el docente del curso de Programación 1 en el programa de Ingeniería de Sistemas.
+Este repositorio contiene los ejercicios resueltos asignados por el docente.
 
 ## Integrantes del Grupo 3
 - Jefferson
