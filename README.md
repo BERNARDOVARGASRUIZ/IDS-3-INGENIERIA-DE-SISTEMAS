@@ -2,6 +2,8 @@
 
 INTEGRANTES
 
-Jefferson
-Adrian
-Bernardo
+.Jefferson
+
+.Adrian
+
+.Bernardo
