@@ -1,6 +1,4 @@
-### IDS 3 PROGRAMACION 1
-
-# *integrantes*
+##### *colaboradores del trabajo*
 - Jefferson
 - Adrian
 - Bernardo
