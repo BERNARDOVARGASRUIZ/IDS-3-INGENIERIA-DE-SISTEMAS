@@ -1,5 +1,5 @@
 #include <iostream>
-void fibonacci(int n) {
+void serie(int n) {
     int a = 0, b = 1, c;
     std::cout << n << ":" << std::endl;
     std::cout << a << " " << b << " ";
@@ -15,6 +15,6 @@ int main() {
     int n;
     std::cout << "Ingrese el número a calcular : ";
     std::cin >> n;
-    fibonacci(n);
+    serie(n);
     return 0;
 }
