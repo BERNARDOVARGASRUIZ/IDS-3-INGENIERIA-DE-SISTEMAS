@@ -1,4 +1,4 @@
 ##### *colaboradores del trabajo*
-- Jefferson
-- Adrian
-- Bernardo
+- *Jefferson Jair Paz Irusta*
+- *Adrian Chamani Arispe*
+- *Bernardo Vargas Ruiz*
