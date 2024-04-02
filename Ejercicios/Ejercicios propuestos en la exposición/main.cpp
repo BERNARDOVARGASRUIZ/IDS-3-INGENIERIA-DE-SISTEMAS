@@ -6,3 +6,5 @@
   expresas o implícitas, incluyendo, pero no limitado a, garantías implícitas de
   comerciabilidad, idoneidad para un propósito particular y no infracción.
 */
+git commit -m "Añadido aviso de derechos de autor a main.cpp"
+git push origin main
