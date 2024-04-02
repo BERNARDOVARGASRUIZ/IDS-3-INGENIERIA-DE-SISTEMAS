@@ -1,9 +1,10 @@
-# REPOSITORIO DE GRUPO 3 DE IDS3 PROGRAMCION 1
+# Ingeniería de Sistemas IDS 3 Programación 1
 
-*INTEGRANTES*
+Este es el repositorio de Ingeniería de Sistemas IDS 3 Programación 1.
 
-Jefferson
-
-Adrian
-
-Bernardo
+*Este repositorio contiene los  ejercicios resueltos asignados por el docente*
+## GRUPO 3
+### *integrantes*
+- Jefferson
+- Adrian
+- Bernardo
