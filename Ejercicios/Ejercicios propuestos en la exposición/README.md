@@ -1,0 +1,6 @@
+### IDS 3 PROGRAMACION 1
+
+*ESTE ES EL APARTADO DE EJERCICIOS*
+- Jefferson
+- Adrian
+- Bernardo
