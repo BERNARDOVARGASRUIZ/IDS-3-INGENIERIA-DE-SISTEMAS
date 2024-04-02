@@ -1,0 +1,23 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    // Serie 1: 1, 5, 3, 7, 5, 9, 7...
+    int n; // Número de elementos en la serie
+    cout << "Ingrese la cantidad de elementos en la serie: ";
+    cin >> n;
+
+    int suma = 0; // Inicializamos la suma en cero
+
+    // Mostramos la serie y calculamos la suma
+    cout << "Serie: ";
+    for (int i = 1; i <= n; ++i) {
+        int elemento = (i % 2 == 0) ? 5 : 1; // Alternamos entre 1 y 5
+        cout << elemento << " ";
+        suma += elemento;
+    }
+
+    cout << "\nSuma de los elementos: " << suma << endl;
+
+    return 0;
+}
