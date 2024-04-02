@@ -2,7 +2,7 @@
 
 *Este repositorio contiene los  ejercicios resueltos asignados por el docente*
 ### *GRUPO 3*
-### *integrantes*
+### *Integrantes*
 - Jefferson
 - Adrian
 - Bernardo
