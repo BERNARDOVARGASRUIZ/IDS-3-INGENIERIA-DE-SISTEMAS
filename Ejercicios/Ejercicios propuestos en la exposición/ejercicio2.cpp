@@ -1,18 +1,20 @@
-#include<iostream>
-using namespace std;
+#include <iostream>
+void fibonacci(int n) {
+    int a = 0, b = 1, c;
+    std::cout << n << ":" << std::endl;
+    std::cout << a << " " << b << " ";
+    for (int i = 2; i < n; ++i) {
+        c = a + b;
+        std::cout << c << " ";
+        a = b;
+        b = c;
+    }
+}
 
-int main()
-{
-   int n,x=0,y=0,z=1;
-   cout << "digite el número de elementos "; cin>>n;
-   
-   cout<<"1";
-   for(int i=1;i<=n;i++) {
-   z = x + y ;
-   cout<<z<<" ";
-   x = y;
-   y = z;
-   }
-   
+int main() {
+    int n;
+    std::cout << "Ingrese el número a calcular : ";
+    std::cin >> n;
+    fibonacci(n);
     return 0;
 }
